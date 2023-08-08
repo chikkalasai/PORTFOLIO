@@ -1,0 +1,35 @@
+/This is my comment line/
+body{
+    text-align: center;
+}
+header{
+    background-color: grey;
+    height: 100px;
+}
+h1{
+    color: aliceblue;
+}
+ul li{ 
+    display: inline;
+    padding: 40px;
+    color:black;
+}
+ul li a{
+    color:bisque;
+    text-decoration: none;
+}
+p{
+    text-align: center ;
+}
+#home img{
+  align-content: center;   
+  align-items: center; 
+  margin-left: 580px;
+}
+#portfolio{
+    text-align: center;
+    background-color: pink;
+}
+#skills{
+    color: black;
+}
